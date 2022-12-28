@@ -1,0 +1,6 @@
+2x Pi Pico W -> waiting for BT eitehr that or use as webpage 
+1x FLORA
+2x Feather NRF52840 -> Potential for split keyboard
+1x ItsyBitsy -> Macropad
+1x KB2040 -> Random keyboard?
+2x Arduino Nano -> LED
